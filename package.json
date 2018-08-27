@@ -1,0 +1,34 @@
+{
+  "name": "avatar-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "pushstate-server .",
+    "dev": "browser-sync start --config 'browsersync.config.js'",
+    "svg": "svgo --pretty --indent=2 --precision=3 --enable=removeUselessStrokeAndFill",
+    "build": "rollup --sourcemap inline --config",
+    "build:watch": "rollup --sourcemap inline --config --watch",
+    "build:prod": "BUILD_ENV=production rollup --sourcemap --config",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Watkins <stjowa@gmail.com>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "babel-plugin-transform-react-jsx": "^6.8.0",
+    "babel-preset-es2015-rollup": "^3.0.0",
+    "babel-preset-react": "^6.16.0",
+    "browser-sync": "^2.18.5",
+    "browsersync": "0.0.1-security",
+    "preact": "^7.1.0",
+    "pushstate-server": "^2.1.0",
+    "rollup": "^0.37.0",
+    "rollup-plugin-babel": "^2.7.1",
+    "rollup-plugin-json": "^2.1.0",
+    "rollup-plugin-node-resolve": "^2.0.0",
+    "rollup-plugin-uglify": "^1.0.1",
+    "rollup-watch": "^2.5.0",
+    "svgo": "^0.7.1",
+    "uglify-js": "^2.7.5"
+  }
+}

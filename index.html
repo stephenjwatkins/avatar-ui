@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Avatar UI Demo</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="/index.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div class="wrap">
+      <div class="backdrop-container">
+        <div class="Backdrop">
+          <div class="Backdrop-wrap">
+            <div id="photo-uploader-attacher" class="Backdrop-avatarBox">
+              <img class="Backdrop-emptyAvatar" src="/images/empty-avatar.min.svg" />
+              <div class="Backdrop-addPhoto">Add Photo</div>
+            </div>
+            <div class="Backdrop-info">
+              <div class="Backdrop-info-name">Eric Hoffman</div>
+              <div class="Backdrop-info-handle">@ehoffman</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="/dest/photobox.js"></script>
+    <script>
+      var el = document.querySelector('#photo-uploader-attacher');
+      var uploader = new PhotoBox({
+        // colors: {
+        //   base: '#666',
+        //   accent: '#E8F9CC',
+        //   emphasis: '#F9CCDF'
+        // },
+        colors: {
+          base: '#fff',
+          accent: '#455054',
+          emphasis: '#4C9501'
+        },
+        attachToTarget: el,
+        size: 220,
+      });
+      setTimeout(() => {
+        uploader.open();
+      }, 500);
+    </script>
+  </body>
+</html>

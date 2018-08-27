@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="116px" height="105px" viewBox="0 0 116 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Backdrop" transform="translate(-26.000000, -37.000000)" fill="#D8D8D8">
+            <g id="Contents">
+                <g transform="translate(20.000000, 17.000000)">
+                    <g id="Profile">
+                        <g id="Box">
+                            <path d="M121.30939,124.999998 C111.534536,96.7292604 89.397752,77 63.654695,77 C37.9116379,77 15.774854,96.7292604 6,124.999998 L121.309401,125 Z M63.654695,68 C76.909529,68 87.654695,57.254834 87.654695,44 C87.654695,30.745166 76.909529,20 63.654695,20 C50.399861,20 39.654695,30.745166 39.654695,44 C39.654695,57.254834 50.399861,68 63.654695,68 Z" id="Combined-Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg">
+  <title>
+    Crop Icon
+  </title>
+  <g stroke-width="2" stroke="#FFF" fill="none" fill-rule="evenodd">
+    <path d="M4.09 0v4.91M13.91 16.364V18M0 4.91h13.91v8.18"/>
+    <path d="M4.09 8.182v4.909H18"/>
+  </g>
+</svg>

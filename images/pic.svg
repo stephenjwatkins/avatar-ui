@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="66px" viewBox="0 0 66 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Profile Pic + (Outline)</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI-Step-1-(v2)" transform="translate(-97.000000, -56.000000)" stroke-width="2" stroke="#455054">
+            <g id="Group">
+                <g id="Box">
+                    <g id="Box-Contents" transform="translate(39.000000, 57.000000)">
+                        <g id="Profile-Pic-+-(Outline)" transform="translate(59.000000, 0.000000)">
+                            <path d="M42.3434667,41.9584 C38.4106667,41.1296 33.5573333,40.5333333 27.7333333,40.5333333 C15.8506667,40.5333333 8.0064,43.0197333 3.78346667,44.8928 C1.47093333,45.9178667 0,48.2090667 0,50.7381333 L0,61.8666667 L34.1333333,61.8666667" id="Shape"></path>
+                            <path d="M12.8,14.9333333 C12.8,6.68586667 19.4858667,0 27.7333333,0 C35.9808,0 42.6666667,6.68586667 42.6666667,14.9333333 C42.6666667,23.1808 35.9808,32 27.7333333,32 C19.4858667,32 12.8,23.1808 12.8,14.9333333 Z" id="Shape"></path>
+                            <path d="M51.2,46.9333333 L51.2,55.4666667" id="Shape"></path>
+                            <path d="M46.9333333,51.2 L55.4666667,51.2" id="Shape"></path>
+                            <circle id="Oval" cx="51.2" cy="51.2" r="12.8"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Filters Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI.Step-2" transform="translate(-59.000000, -277.000000)" fill="#FFFFFF">
+            <g id="Group">
+                <g id="Action-Bar" transform="translate(0.000000, 260.000000)">
+                    <g id="Edit" transform="translate(10.000000, 10.000000)">
+                        <g id="Brightness" transform="translate(42.000000, 0.000000)">
+                            <g id="Filters-Icon" transform="translate(7.000000, 7.000000)">
+                                <circle id="Oval" cx="9" cy="5.25" r="5.25"></circle>
+                                <path d="M15.13125,8.07525 C14.46825,9.513 13.31175,10.68675 11.856,11.36475 C11.952,11.81775 12,12.27975 12,12.75 C12,14.52 11.31,16.12725 10.19175,17.3325 C10.94925,17.75625 11.82075,18 12.75,18 C15.6495,18 18,15.6495 18,12.75 C18,10.7085 16.83225,8.94375 15.13125,8.07525 Z" id="Shape"></path>
+                                <path d="M9,12 C6.2865,12 3.94725,10.38675 2.87625,8.0715 C1.17075,8.9385 0,10.7055 0,12.75 C0,15.6495 2.3505,18 5.25,18 C8.1495,18 10.5,15.6495 10.5,12.75 C10.5,12.44175 10.46775,12.141 10.41675,11.84775 C9.96,11.946 9.486,12 9,12 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
